@@ -1,4 +1,4 @@
 *.csv
 *.txt
-Workspace/input/*
-Workspace/output/*
+Workspace/input
+Workspace/output
